@@ -1,0 +1,27 @@
+*{background-color: black;}
+.d{
+   text-align: center;
+   color:black);
+   background-color: white;
+}
+.n{
+    color: rgb(255, 60, 0);
+}
+.q{
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+.f{
+    color: rgb(255, 60, 0);
+}
+.m{
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+.i{
+    height: 200px;
+    width: 300px;
+    float: right;
+}
